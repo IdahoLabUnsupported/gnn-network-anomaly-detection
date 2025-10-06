@@ -37,7 +37,7 @@ The anomaly score is based on how close the prediction comes to reality.
 
 **code/configs:** any config files used for cleaning objects
 
-**code/data:** data utils used for data preprocessing. 
+**code/data:** data utils (from https://github.com/IdahoLabUnsupported/sequential-network-anomaly-detection/tree/main/data) used for data preprocessing. 
 
 **code/lib_code:** code for data preprocessing and task description
 
