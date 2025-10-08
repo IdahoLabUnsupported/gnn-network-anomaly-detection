@@ -16,7 +16,7 @@ GNN model computes a graph based view of the network logs and detects anomalous 
 
 
 # What it Does
-The GNN anomaly detection model searches saved network capture data to detect potentially malicious anomalous activity. It 
+The GNN anomaly detection model searches saved network capture data to detect potentially malicious anomalous activity. 
 
 # How it Works
 The GNN model is a machine learning neural network that operates on information associated with nodes in a graph. It uses the structure of the graph to produce a neighborhood around each node. The information across a node's neighbors is the only information the model uses in its input. This is similar to a convolutional network, where a pixel's color only affects the result of nearby pixels during each convolution layer.
